@@ -218,3 +218,12 @@ a:hover {
   color:grey;
   text-decoration:none;
 }
+
+#btnShow {
+  color:white;
+  background:black;
+
+  border:1px;
+  border-style: solid;
+  border-color:red;
+}
